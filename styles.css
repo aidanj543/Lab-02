@@ -57,3 +57,9 @@ section{
     border: 1px solid #ddd;
     border-radius: 10px;
 }
+
+.speaker-card img{
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
