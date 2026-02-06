@@ -40,3 +40,20 @@ section{
     max-width: 800px;
     margin: auto;
 }
+
+.event-image{
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    margin-top: 20px;
+}
+
+.speaker-card{
+    display: inline-block;
+    width: 200px;
+    margin: 20px;
+    text-align: center;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+}
